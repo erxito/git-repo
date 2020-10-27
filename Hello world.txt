@@ -1,6 +1,6 @@
-print("Hello world")
-print("hello everybody")
-print("Hello")
+print("Hello world;")
+print("hello everybody;")
+print("Hello;")
 выход вперед
-print("Hello my dear friend")
-print("Glad to see you")
+print("Hello my dear friend;")
+print("Glad to see you;")

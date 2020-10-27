@@ -2,3 +2,4 @@ print("Hello world")
 print("hello everybody")
 print("Hello")
 выход вперед
+print("Hello my dear friend")
